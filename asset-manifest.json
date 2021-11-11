@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/polyfill-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/polyfill-test/static/js/main.f74d332f.chunk.js",
-    "main.js.map": "/polyfill-test/static/js/main.f74d332f.chunk.js.map",
+    "main.js": "/polyfill-test/static/js/main.8cfa31c1.chunk.js",
+    "main.js.map": "/polyfill-test/static/js/main.8cfa31c1.chunk.js.map",
     "runtime-main.js": "/polyfill-test/static/js/runtime-main.9439a5d6.js",
     "runtime-main.js.map": "/polyfill-test/static/js/runtime-main.9439a5d6.js.map",
     "static/js/2.04c0952e.chunk.js": "/polyfill-test/static/js/2.04c0952e.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.9439a5d6.js",
     "static/js/2.04c0952e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f74d332f.chunk.js"
+    "static/js/main.8cfa31c1.chunk.js"
   ]
 }
