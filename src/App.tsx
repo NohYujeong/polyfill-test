@@ -1,10 +1,10 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { createBrowserHistory } from "history";
+import { useHistory } from "react-router-dom";
 
 function App() {
-  const history = createBrowserHistory({ basename: process.env.PUBLIC_URL });
+  const history = useHistory();
   console.log(history);
 
   return (
