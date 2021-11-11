@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/polyfill-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/polyfill-test/static/js/main.8b4bc536.chunk.js",
-    "main.js.map": "/polyfill-test/static/js/main.8b4bc536.chunk.js.map",
+    "main.js": "/polyfill-test/static/js/main.a12c4716.chunk.js",
+    "main.js.map": "/polyfill-test/static/js/main.a12c4716.chunk.js.map",
     "runtime-main.js": "/polyfill-test/static/js/runtime-main.9439a5d6.js",
     "runtime-main.js.map": "/polyfill-test/static/js/runtime-main.9439a5d6.js.map",
-    "static/js/2.2718539d.chunk.js": "/polyfill-test/static/js/2.2718539d.chunk.js",
-    "static/js/2.2718539d.chunk.js.map": "/polyfill-test/static/js/2.2718539d.chunk.js.map",
+    "static/js/2.3d1d7d2e.chunk.js": "/polyfill-test/static/js/2.3d1d7d2e.chunk.js",
+    "static/js/2.3d1d7d2e.chunk.js.map": "/polyfill-test/static/js/2.3d1d7d2e.chunk.js.map",
     "index.html": "/polyfill-test/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/polyfill-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2718539d.chunk.js.LICENSE.txt": "/polyfill-test/static/js/2.2718539d.chunk.js.LICENSE.txt",
+    "static/js/2.3d1d7d2e.chunk.js.LICENSE.txt": "/polyfill-test/static/js/2.3d1d7d2e.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/polyfill-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9439a5d6.js",
-    "static/js/2.2718539d.chunk.js",
+    "static/js/2.3d1d7d2e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.8b4bc536.chunk.js"
+    "static/js/main.a12c4716.chunk.js"
   ]
 }
